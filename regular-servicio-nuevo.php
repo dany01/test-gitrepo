@@ -459,7 +459,7 @@
                                         <label for="costo">Número de serie:</label>
                                         <input type="text" class="form-control" style="text-transform:uppercase" id="num_serie" placeholder="Número de serie" name="num_serie" required>
                                     </div>
-                                    
+
                                     //Test github
                                     <div class="form-group showcase_row_area col-lg-3">
                                         <label for="costo">Tipo de Vehículo:</label>
@@ -477,6 +477,10 @@
                                     <div class="form-group  showcase_row_area extra col-lg-4">
                                         <label for="numero_economico">Número económico:</label>
                                         <input type="text" class="form-control" style="text-transform:uppercase" id="numero_economico" name="numero_economico">
+                                    </div>
+                                    <div class="form-group  showcase_row_area extra col-lg-4">
+                                        <label for="peso">Peso aproximado de carga:</label>
+                                        <input type="text" class="form-control" name="peso" id="peso">
                                     </div>
                                     <div class="form-group  showcase_row_area extra col-lg-4">
                                         <label for="peso">Peso aproximado de carga:</label>
