@@ -524,6 +524,7 @@
                                             <option value="Combinada">Combinada</option>
                                         </select>
                                     </div>
+                                    // Test Rama Master
                                     <div class="form-group showcase_row_area col-lg-4">
                                         <label for="costo">Estado de origen:</label>
                                         <select class="form-control custom-select" name="estado_sol" id="estado_sol" style="text-transform:capitalize" required>
