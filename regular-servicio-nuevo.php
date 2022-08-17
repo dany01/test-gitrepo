@@ -511,6 +511,11 @@
                                         <label for="falla">Descripcion de la falla:</label>
                                         <input type="text" class="form-control" style="text-transform:capitalize" id="otros" placeholder="" name="otros">
                                     </div>
+                                    //Test github
+                                    <div class="form-group showcase_row_area otros col-lg-8">
+                                        <label for="falla">Descripcion de la falla 2:</label>
+                                        <input type="text" class="form-control" style="text-transform:capitalize" id="otros" placeholder="" name="otros">
+                                    </div>
                                     <div class="form-group showcase_row_area col-lg-4">
                                         <label for="costo">Tipo de transmisión:</label>
                                         <select class="form-control custom-select" name="transmision" id="transmision" style="text-transform:capitalize" required>
