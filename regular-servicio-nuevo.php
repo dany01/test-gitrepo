@@ -524,6 +524,14 @@
                                             <option value="Combinada">Combinada</option>
                                         </select>
                                     </div>
+                                    <div class="form-group showcase_row_area col-lg-4">
+                                        <label for="costo">Tipo de transmisión:</label>
+                                        <select class="form-control custom-select" name="transmision" id="transmision" style="text-transform:capitalize" required>
+                                            <option value="Estándar">Estándar</option>
+                                            <option value="Automática">Automática</option>
+                                            <option value="Combinada">Combinada</option>
+                                        </select>
+                                    </div>
                                     // Test Rama Master
                                     <div class="form-group showcase_row_area col-lg-4">
                                         <label for="costo">Estado de origen:</label>
